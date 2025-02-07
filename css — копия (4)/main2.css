@@ -1,0 +1,6 @@
+.wrap{
+    width: 660px;
+    height: 520px;
+    margin: 30px auto;
+    background: radial-gradient(red, yellow, green, green );
+}

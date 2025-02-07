@@ -1,0 +1,21 @@
+
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.w1{
+    width: 400px;
+    height: 100px;
+    background: linear-gradient(0deg, lime, blue, brown);
+    color: white;
+    text-align: center;
+    line-height: 110px;
+}
+.w2{
+    width: 400px;
+    height: 100px;
+    background: linear-gradient(90deg, orange, yellow, green, blue, purple);
+    color: white;
+    text-align: center;
+    line-height: 110px;
+}

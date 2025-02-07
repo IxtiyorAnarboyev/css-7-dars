@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.w1{
+    width: 400px;
+    height: 100px;
+    background: linear-gradient(90deg, blue, green, yellow, orange, red);
+    color: grey;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.wrap{
+    width: 660px;
+    height: 520px;
+    margin: 30px auto;
+    background: radial-gradient(green, white, blue,blue );
+}
+.h1{
+  margin-top: 250px;
+  text-align: center;
+}
+.Geeks{
+    margin-left: 120px;
+    
+}
+
+    
